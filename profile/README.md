@@ -2,80 +2,93 @@
 
 **Tokenize Trust. Unlock Property Wealth.**
 
-Welcome to **LockVest** — a Web3-powered Real World Asset (RWA) marketplace transforming property ownership through decentralized technology. Built on the scalable and secure **Pharos blockchain**, LockVest allows users to invest in tokenized real estate — safely, transparently, and permissionlessly.
+Welcome to **LockVest** — a Web3-powered Real World Asset (RWA) marketplace transforming global investment through decentralized technology. Built on the ultra-fast **Pharos blockchain** (50,000 TPS), LockVest enables users worldwide to invest in tokenized real estate, commodities, and infrastructure assets — safely, transparently, and permissionlessly.
 
 ---
 
-## 🚀 What We’re Building
+## 🚀 What We're Building
 
-🔗 **Tokenized Real Estate Marketplace**  
-Buy, hold, and trade fractional property ownership using on-chain assets.
+🔗 **Global RWA Marketplace**  
+Buy, hold, and trade fractional ownership of real-world assets using on-chain tokens.
 
-🪙 **Dual Token System**  
+🪙 **Multi-Asset Token System**  
 - **ERC-20 tokens** for fractional ownership and revenue sharing  
 - **ERC-721 NFTs** representing proof of title and ownership records
+- **Commodity tokens** for diverse asset classes
 
 🛰 **Oracle-Powered Verification**  
-On-chain/off-chain syncing using Chainlink and custom Pharos oracles.
+Real-time asset data using Chainlink oracles and Pharos SPN-powered compliance.
 
-⚖️ **Compliance-Ready Architecture**  
-zk-KYC and Proof-of-Asset integrations ensure compliance and verifiability.
+⚖️ **Enterprise-Grade Security**  
+SPN-powered zero-knowledge compliance, KYC integration, and audited smart contracts.
 
-📦 **Embeddable Tools**  
-Customizable widgets and SDKs to integrate LockVest’s marketplace into external apps.
+📦 **Embeddable Marketplace Widgets**  
+Lightweight, customizable widgets that developers can integrate into any application or website.
 
 ---
 
 ## 🌍 Why LockVest?
 
-💡 **Financial Inclusion**: Enabling access to real estate for all income levels.  
-🔐 **Trustless Infrastructure**: Smart contracts handle everything — no middlemen.  
-💰 **Liquidity for Real Assets**: Trade fractional real estate like tokens.  
-📜 **Transparent Ownership**: Property titles and transactions live on-chain.
+💡 **Global Financial Inclusion**: Enabling access to real-world assets for investors worldwide.  
+🔐 **Trustless Infrastructure**: Smart contracts handle everything — no intermediaries, no extra fees.  
+💰 **Liquidity for Real Assets**: Trade fractional real estate, commodities, and infrastructure like tokens.  
+📜 **Transparent Ownership**: Asset titles and transactions live on-chain with real-time verification.  
+⚡ **50,000 TPS Performance**: Built on Pharos blockchain for enterprise-grade scalability.
 
 ---
 
 ## 🛠 Tech Stack
 
-- ⚙️ **Solidity** — Smart contracts for asset logic
+- ⚙️ **Solidity** — Smart contracts for asset logic and marketplace operations
 - ⚛️ **React + Next.js** — Frontend and dApp interface
 - 🎨 **Tailwind CSS + shadcn/ui** — UI styling and components
-- ⛓ **Chainlink + Pharos SPN** — Oracle + Data infrastructure
-- 🛡 **zkProofs & KYC** — Identity and compliance integrations
+- ⛓ **Chainlink + Pharos SPN** — Oracle infrastructure and compliance
+- 🛡 **SPN-Powered ZK-Proofs** — Identity verification and regulatory compliance
+- 🌐 **Multi-Language Support** — Localized interfaces for global adoption
 
 ---
 
 ## 📈 Roadmap Highlights
 
-- ✅ Q2 2025 — Smart Contract Architecture (ERC-20, ERC-721)
-- ✅ Q2 2025 — Oracle Layer & zk-KYC Integration
-- 🚧 Q3 2025 — Marketplace UI + dApp release (Testnet)
-- 🚀 Q4 2025 — Mainnet Launch + DAO Governance Proposal
+- ✅ Q3 2025 — Architecture, UX Spec & PoC Widget
+- 🚧 Q4 2025 — Marketplace Smart Contracts & Oracle Integration
+- 🚧 Q4 2025 — Security Audit, Hardening & Testnet Launch
+- 🚀 Q1 2026 — Mainnet Pilot Launch with Limited Epoch
+- 🌟 Q1 2026 — Growth, PMF Optimization & DAO Bootstrapping
+
+---
+
+## 🎯 Target Markets
+
+- **Real Estate**: Fractional property ownership and REIT tokenization
+- **Commodities**: Gold, silver, oil, and agricultural product tokens
+- **Infrastructure**: Renewable energy, transportation, and utility assets
+- **Global Investors**: Individual and institutional investors seeking RWA exposure
 
 ---
 
 ## 🤝 Get Involved
 
-We're building in the open and welcome community contributions. You can:
+We're building an open, global marketplace and welcome community contributions. You can:
 
 - ⭐ Star and watch our repositories
-- 🧪 Test our contracts and give feedback
-- 📣 Join discussions and proposals on our governance forum
+- 🧪 Test our contracts and provide feedback
+- 📣 Join discussions on our governance forum
+- 🔗 Integrate our marketplace widgets into your applications
 
 ---
 
 ## 🌐 Connect With Us
 
-- 🔗 [Website](https://lockvest.xyz) *(Coming Soon)*
-- 🐦 [Twitter / X](https://twitter.com/LockVestHQ)
-- 💬 [Discord](https://discord.gg/lockvest)
+- 🔗 [Website](https://lockvest.xyz)
+- 🐦 [Twitter / X](https://x.com/lockvest_)
 - 📢 [Telegram](https://t.me/lockvest)
 
 ---
 
 > 🔓 **Open Protocol. Real Value. Built for Everyone.**  
-> LockVest is proudly building as part of the Pharos Innovation Proposal (PIP) ecosystem.
+> LockVest is proudly building as part of the Pharos Innovation Proposal (PIP) ecosystem, bringing real-world assets to the blockchain.
 
 ---
 
-**© 2025 LockVest Consortium — Built on Pharos**
+**© 2025 LockVest Consortium — Built on Pharos Blockchain**
